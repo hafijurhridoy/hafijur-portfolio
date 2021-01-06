@@ -1,0 +1,162 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.menu{
+    height: 50px;
+    margin-left: 880px;
+}
+.menu a{
+    color: #3C3C3C;
+    text-decoration: none;
+    margin-right: 30px;
+    font-weight: bold;
+}
+h1{
+    color: #363958;
+    font-size: 80px;
+    line-height: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+.highlight-hero{
+    color: #FF8367;
+}
+p{
+    color: #3E3E3E;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #FFF;
+    background: linear-gradient(45deg,#FF8063, #F46060);
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+#about{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bold;
+}
+section{
+    height: 500px;
+    padding-bottom: 150;
+    margin-top: 50px;
+}
+.project-area{
+    background: #F8F9FC;
+    height: 700px;
+}
+#project-headline{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 80px;
+}
+.highlight-project{
+    color: #F46060;
+}
+.all-projects{
+    margin-left: 96px;
+}
+.project-one{
+    width: 343px;
+    height: 341px;
+    float: left;
+    padding: 10px 10px;
+    margin: 28px 12px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px grey;
+}
+.project-one img{
+    width: 339px;
+    height: 213px;
+    background: #FFFFFF;  
+}
+.testimonies-area{
+    background: #F8F9FC;
+    height: 600px;
+}
+#testimonies-headline{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 80px;
+}
+.highlight-testimonies{
+    color: #F46060;
+}
+.testimonies-part{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 180px;
+    border-radius: 50%;
+}
+.testimonies-part img{
+    width: 200px;
+    height: 200px;
+    background: #FFFFFF;  
+    border-radius: 50%;
+}
+.work-area{
+    background-image: url(images/work.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 906px;
+    height: 225px;
+    padding: 60px 74px;
+    margin: 150px auto;
+}
+.work-area img{
+    width: 906px;
+    height: 225px;
+}
+.work-area h2{
+    font-size: 70px;
+    color: #FFF;
+    font-family: 'Bebas Neue', cursive;
+    display: inline;
+}
+#chat-button{
+    margin-left: 700px;
+}
+.icon{
+    height: 200px;
+}
+.icon p{
+    text-align: center;
+}
+.icon h1{
+    font-size: 36px;
+    text-align: center;
+}
+.all-icon{
+    margin-left: 585px;
+}
+.all-icon img{
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
+footer p{
+    text-align: center;
+}
